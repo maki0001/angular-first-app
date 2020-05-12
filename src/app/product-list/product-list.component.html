@@ -22,4 +22,9 @@ can be found in the LICENSE file at http://angular.io/license
     Share
   </button>
 
+  <app-product-alerts
+    [product]="product"
+    (notify)="OnNotify()">
+  </app-product-alerts>
+
 </div>
