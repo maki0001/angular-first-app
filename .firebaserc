@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-sample-8074d": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-sample-8074d"
+        ]
+      }
+    }
+  }
+}
